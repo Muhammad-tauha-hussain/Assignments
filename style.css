@@ -1,0 +1,12 @@
+body{
+    background-color: #000;
+    height: 100vh;
+    width: 100%;
+}
+.hello-text{
+    padding: 20px;
+    border-radius: 10px;
+    margin: 25% auto;
+    background-color: #fff;
+    width: fit-content;
+}
